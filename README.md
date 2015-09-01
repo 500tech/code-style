@@ -5,7 +5,7 @@ This repository contains all the code style settings we use at 500Tech.
 
 ## ESLint
 
-There are three files for eslint:
+There are four files for eslint:
 
 1. .eslintrc
 2. .eslintrc-angular
