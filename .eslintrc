@@ -36,7 +36,6 @@
     "no-restricted-modules": 0,
     "no-sync": 0,
     "no-undef-init": 0,
-    "linebreak-style": 0,
     "no-inline-comments": 0,
     "no-new-object": 0,
     "no-ternary": 0,
@@ -75,10 +74,7 @@
     "no-bitwise": 1,
 
     // Error
-    "indent": [2, 4],
-    "quotes": [2, "single"],
     "linebreak-style": [2, "unix"],
-    "semi": [2, "always"],
     "no-caller": 2,
     "no-cond-assign": 2,
     "no-constant-condition": 2,
