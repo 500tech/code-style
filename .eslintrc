@@ -62,7 +62,8 @@
     "no-multi-spaces": [1, {
       "exceptions": {
         "VariableDeclarator": true,
-        "AssignmentExpression": true
+        "AssignmentExpression": true,
+        "ImportDeclaration": true
       }
     }],
     "no-param-reassign": 1,

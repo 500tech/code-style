@@ -61,7 +61,7 @@
     "default-case": 1,
     "dot-notation": 1,
     "no-alert": 1,
-    "no-multi-spaces": [1, { "exceptions": { "VariableDeclarator": true, "AssignmentExpression": true } }],
+    "no-multi-spaces": [1, { "exceptions": { "VariableDeclarator": true, "AssignmentExpression": true, "ImportDeclaration": true } }],
     "no-param-reassign": 1,
     "no-warning-comments": [1, { "terms": ["todo", "fixme"], "location": "anywhere" }],
     "radix": 1,
