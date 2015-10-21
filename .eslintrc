@@ -201,7 +201,7 @@
     "no-unneeded-ternary": 2,
     "object-curly-spacing": [2, "always"],
     "operator-assignment": [2, "always"],
-    "quote-props": [2, "consistent-as-needed", { "keywords": true, "unnecessary": false }],
+    "quote-props": [2, "consistent-as-needed", { "keywords": false, "unnecessary": false }],
     "semi-spacing": [2, { "before": false, "after": true }],
     "semi": [2, "always"],
     "space-after-keywords": [2, "always"],
