@@ -50,6 +50,7 @@
     "sort-vars": 0,
     "max-statements": 0,
     "max-params": 0,
+    "require-jsdoc": 0,
 
     // Warning
     "comma-dangle": [1, "always-multiline"],
@@ -75,6 +76,7 @@
     "max-depth": [1, 3],
     "max-len": [1, 80, 4, {"ignoreComments": true, "ignoreUrls": true, "ignorePattern": "^\\s*var\\s.+=\\s*require\\s*\\("}],
     "no-bitwise": 1,
+    "global-require": 1,
 
     // Error
     "linebreak-style": [2, "unix"],
@@ -212,6 +214,11 @@
     "no-this-before-super": 2,
     "require-yield": 2,
     "valid-jsdoc": [2, { "prefer": { "return": "returns" }, "requireReturn": false }],
+    "space-before-keywords": [2, "always"],
+    "no-restricted-syntax": [2, "FunctionExpression", "WithStatement"],
+    "no-negated-condition": 2,
+    "no-empty-pattern": 2,
+    "no-magic-numbers": 2,
 
     //******************************************************************** React
     // Disabled
