@@ -236,6 +236,7 @@
     "angular/service-name": 0,
     "angular/watchers-execution": 0,
     "angular/directive-restrict": 0,
+    "angular/file-name": 0,
 
     // Warning
     "angular/deferred": 1,
@@ -270,7 +271,6 @@
     "angular/typecheck-string": 2,
     "angular/window-service": 2,
     "angular/component-limit": [2, 1],
-    "angular/file-name": [2, { nameStyle: 'dash', typeSeparator: 'dot' }],
     "angular/module-dependency-order": [2, { grouped: false }],
     "angular/no-http-callback": 2
   }
