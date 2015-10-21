@@ -51,9 +51,9 @@
     "max-statements": 0,
     "max-params": 0,
     "require-jsdoc": 0,
+    "comma-dangle": 0,
 
     // Warning
-    "comma-dangle": [1, "always-multiline"],
     "no-console": 1,
     "no-control-regex": 1,
     "no-empty": 1,
