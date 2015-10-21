@@ -229,9 +229,14 @@
     "react/jsx-indent-props": 0,
     "react/react-in-jsx-scope": 0,
     "react/require-extension": 0,
+    "react/jsx-no-literals": 0,
+    "react/forbid-prop-types": 0,
+    "react/no-set-state": 0,
 
     // Warning
     "react/sort-comp": 1,
+    "react/no-direct-mutation-state": 1,
+    "react/prefer-es6-class": 1,
 
     // Error
     "react/display-name": 2,
@@ -239,10 +244,8 @@
     "react/jsx-closing-bracket-location": [2, { "location": "after-props" }],
     "react/jsx-curly-spacing": [2, "always"],
     "react/jsx-no-duplicate-props": [2, { "ignoreCase": true }],
-    "react/jsx-no-literals": 2,
     "react/jsx-no-undef": 2,
-    "react/jsx-quotes": [2, "single", "avoid-escape"],
-     "react/jsx-uses-react": 2,
+    "react/jsx-uses-react": 2,
     "react/jsx-uses-vars": 2,
     "react/no-danger": 0,
     "react/no-did-mount-set-state": 2,
@@ -306,6 +309,6 @@
     "angular/component-limit": [2, 1],
     "angular/file-name": [2, { nameStyle: 'dash', typeSeparator: 'dot' }],
     "angular/module-dependency-order": [2, { grouped: false }],
-    "angular/no-http-callback": 2,
+    "angular/no-http-callback": 2
   }
 }
