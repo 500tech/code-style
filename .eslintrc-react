@@ -215,7 +215,7 @@
     "require-yield": 2,
     "valid-jsdoc": [2, { "prefer": { "return": "returns" }, "requireReturn": false }],
     "space-before-keywords": [2, "always"],
-    "no-restricted-syntax": [2, "FunctionExpression", "WithStatement"],
+    "no-restricted-syntax": [2, "WithStatement"],
     "jsx-quotes": [2, "prefer-double"],
     "no-negated-condition": 2,
     "no-empty-pattern": 2,
