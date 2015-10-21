@@ -272,6 +272,6 @@
     "angular/component-limit": [2, 1],
     "angular/file-name": [2, { nameStyle: 'dash', typeSeparator: 'dot' }],
     "angular/module-dependency-order": [2, { grouped: false }],
-    "angular/no-http-callback": 2,
+    "angular/no-http-callback": 2
   }
 }
